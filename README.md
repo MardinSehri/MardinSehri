@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/MardinSehri">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FF6B35&center=true&vCenter=true&width=640&lines=Merhaba,+ben+MardinSehri;Yazılım+geliştiriyorum;Açık+kaynak+projeler+paylaşıyorum" alt="Yazan yazı" />
+    <img src="./assets/typing.svg" alt="Yazan yazı" />
   </a>
 </p>
 
@@ -16,9 +16,17 @@
 
 ## 🙋‍♂️ Hakkımda
 
-- 🔭 Şu an [**ArtWord**](https://github.com/MardinSehri/ArtWord) üzerinde çalışıyorum — Artuklu Belediyesi için bir Word editörü
-- 🗂️ Diğer çalışmalarıma [depolarımdan](https://github.com/MardinSehri?tab=repositories) göz atabilirsin
+- 🔭 Şu an [**ArtWord**](https://github.com/MardinSehri/ArtWord) üzerinde çalışıyorum — Artuklu Belediyesi için Word editörü; güncellemeler depodaki **Releases** bölümünden dağıtılıyor
+- 🗂️ [**intranet-shortcuts**](https://github.com/MardinSehri/intranet-shortcuts) — kurum içi intranet kısayol ve duyuruları (JSON tabanlı)
 - 💡 Soru ve öneriler için [issues](https://github.com/MardinSehri/MardinSehri/issues) açman yeterli
+
+---
+
+## 🛠️ Araçlarım
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,git,github,vscode&theme=dark" alt="Kullandığım araçlar" />
+</p>
 
 ---
 
@@ -28,12 +36,12 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/MardinSehri/ArtWord">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MardinSehri&repo=ArtWord&theme=transparent&hide_border=true&title_color=FF6B35&icon_color=FF6B35&text_color=8b949e&description_color=8b949e" alt="ArtWord" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MardinSehri&repo=ArtWord&theme=transparent&hide_border=true&title_color=FF6B35&icon_color=FF6B35&text_color=8b949e&description_color=8b949e" alt="ArtWord" />
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/MardinSehri/intranet-shortcuts">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MardinSehri&repo=intranet-shortcuts&theme=transparent&hide_border=true&title_color=FF6B35&icon_color=FF6B35&text_color=8b949e&description_color=8b949e" alt="intranet-shortcuts" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MardinSehri&repo=intranet-shortcuts&theme=transparent&hide_border=true&title_color=FF6B35&icon_color=FF6B35&text_color=8b949e&description_color=8b949e" alt="intranet-shortcuts" />
       </a>
     </td>
   </tr>
@@ -44,12 +52,12 @@
 ## 📊 İstatistikler
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MardinSehri&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=FF6B35&icon_color=FF6B35&text_color=8b949e&ring_color=FF6B35&bg_color=00000000" alt="GitHub istatistiklerim" height="165" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MardinSehri&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=FF6B35&icon_color=FF6B35&text_color=8b949e&ring_color=FF6B35&bg_color=00000000" alt="GitHub istatistiklerim" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MardinSehri&theme=transparent&hide_border=true&background=00000000&ring=FF6B35&fire=FF6B35&currStreakNum=FF6B35&sideNums=FF6B35&currStreakLabel=FF6B35&dateNum=8b949e&sideLabels=8b949e&dates=8b949e" alt="Yazma serim" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MardinSehri&theme=transparent&no-frame=true&no-bg=true&row=1&column=7&margin-h=6&margin-v=6" alt="Profil kupaları" />
+  <img src="https://activity-graph.vercel.app/graph?username=MardinSehri&bg_color=0d1117&color=c0caf5&line=FF6B35&area=true&area_color=FF6B35&hide_border=true" alt="GitHub aktivite grafiğim" />
 </p>
 
 ---
