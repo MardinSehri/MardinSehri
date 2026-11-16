@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben <b>MardinSehri</b> 👋</h1>
+<h1 align="center">Merhaba, ben <b>Onur</b> 👋</h1>
 
 <p align="center">
   <a href="https://github.com/MardinSehri">
